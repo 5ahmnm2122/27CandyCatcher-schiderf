@@ -31,7 +31,7 @@ public class EndScript : MonoBehaviour
         loseObj.SetActive(true);
     }
     scoreString = data.score.ToString();
-    scoreText.text = "Your score was:" + scoreString;
+    scoreText.text = "Your score was: " + scoreString;
     }
 
     // Update is called once per frame
