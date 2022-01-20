@@ -10,7 +10,7 @@ MacOS Mojave, Unity 2020 3.18f1, VisualStudio Code
 WebGL 960x600
 
 ### Visuals: 
-
+![plot](./Visual.png)
 
 ### Third party material: 
 Green Candy Sprite: https://www.google.com/search?q=green%20candy%20png&tbm=isch&tbs=ic:trans&hl=de&sa=X&ved=0CAMQpwVqFwoTCJi0_L3-v_UCFQAAAAAdAAAAABAU&biw=1680&bih=805#imgrc=pzdytDC91wAzPM
