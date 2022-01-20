@@ -8,6 +8,8 @@ public class Manager : MonoBehaviour
 {
 
     public VariablesGlobal data;
+    private string scoreString;
+    public Text scoreText;
     
     // Start is called before the first frame update
     void Start()
@@ -18,6 +20,8 @@ public class Manager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    
+    scoreString = data.score.ToString();
+    scoreText.text = "Score: " + scoreString;
+
     }
 }
