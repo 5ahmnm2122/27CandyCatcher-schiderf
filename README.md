@@ -3,6 +3,8 @@
 ### Project description: 
 Simple Candy Catcher Game for WebGl.
 
+https://5ahmnm2122.github.io/27CandyCatcher-schiderf/
+
 ### Development platform: 
 MacOS Mojave, Unity 2020 3.18f1, VisualStudio Code
 
@@ -21,10 +23,13 @@ Red Danger Sprite: https://www.google.com/search?q=red%20danger&tbm=isch&hl=de&t
 
 Monster Sprite: https://www.google.com/search?q=cut%20the%20rope%20monster%20png&tbm=isch&tbs=ic:trans&hl=de&sa=X&ved=0CAMQpwVqFwoTCLC58IGqwPUCFQAAAAAdAAAAABAC&biw=1680&bih=805#imgrc=GwszInJgKtdxnM
 
+Background: http://clipart-library.com/clipart/1753991.htm
+
 ### Project state: 
-90%
+100%
 
 ### Limitations: 
+WebGL Build is not fully loading, but thanks to the issue thread i was able to overcome the problem.
 
 ### Lessons Learned: 
 How to code a Timer and work with scriptable Objects.
